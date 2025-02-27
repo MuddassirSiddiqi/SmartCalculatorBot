@@ -80,8 +80,8 @@ The **Smart Calculator Bot** is a versatile Telegram bot designed to perform a w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smart-calculator-bot.git
-   cd smart-calculator-bot
+   git clone https://github.com/MuddassirSiddiqi/SmartCalculatorBot.git
+   cd SmartCalculatorBot
    ```
 
 2. Install the required dependencies:
@@ -111,7 +111,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or issues, please open an issue on the [GitHub repository](https://github.com/yourusername/smart-calculator-bot).
+For any questions or issues, please open an issue on the [GitHub repository](https://github.com/MuddassirSiddiqi/SmartCalculatorBot).
 
 ---
 
